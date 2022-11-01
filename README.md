@@ -1,3 +1,4 @@
 # MUSIC-PLAYER
 
-https://musicplayercustomized.000webhostapp.com/  tap this link to see the project
+https://musicplayersys.000webhostapp.com/  tap this link to see the project
+Avoid using google chrome
